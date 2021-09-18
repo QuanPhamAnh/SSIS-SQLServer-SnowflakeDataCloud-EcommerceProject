@@ -1,4 +1,3 @@
-# FA_project1
 ## Project Topic
 ### E-commerce/Retails
 Sales/Customer analysis and trend prediction.
@@ -39,8 +38,3 @@ Building the data pipeline
 9. Open **PowerBI**, click Get Data, search for Snowflake.
 10. Connect to Snowflake server using your snowflake account.
 11. Create PowerBI dashboard. ![BIplot](./docs/Dashboard-ecommerce.png)
-
-## Snowflake trainer account
-[Snowflake link](https://pv02258.ap-southeast-1.snowflakecomputing.com/)
-1. User: `longbv1`               Password: `abc123`
-2. User: `mainq2`                Password: `abc123`
